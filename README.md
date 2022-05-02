@@ -1,2 +1,1 @@
-# sonarqubeBogarin
-# sonarqubeBogarin
+# sonarqube Bogarin
